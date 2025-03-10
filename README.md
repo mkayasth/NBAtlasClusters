@@ -1,4 +1,4 @@
-# Recreating & Comparing cell type clusters in NBAtlas (made in scVI) in Seurat with umap.
+# Recreating & Comparing cell type clusters in NBAtlas (made in scVI) in Seurat.
 
 Link to the Seurat object from NBAtlas: [https://data.mendeley.com/datasets/yhcf6787yp/1](https://data.mendeley.com/datasets/yhcf6787yp/1).  <br>
 
